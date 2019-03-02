@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermoTransmitter", "ThermoTransmitter\ThermoTransmitter.csproj", "{D2B8BAD8-3A67-4132-AC2D-02C4188DBEF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermoMonitor", "ThermoMonitor\ThermoMonitor.csproj", "{4CED1C62-B477-4DA1-9CDF-E43A0EFED691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermoCore", "ThermoCore\ThermoCore.csproj", "{E77B74E7-62C4-4E21-AEA9-56FDAB019D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestData", "TestData\TestData.csproj", "{563E7561-87C8-4243-8833-091AA6026201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRunner", "TestRunner\TestRunner.csproj", "{737EA769-EBAD-4323-9117-C9003FF4595D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{EF9FB2C8-5322-4649-8EDA-C54F8941CD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2B8BAD8-3A67-4132-AC2D-02C4188DBEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B8BAD8-3A67-4132-AC2D-02C4188DBEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B8BAD8-3A67-4132-AC2D-02C4188DBEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B8BAD8-3A67-4132-AC2D-02C4188DBEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CED1C62-B477-4DA1-9CDF-E43A0EFED691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CED1C62-B477-4DA1-9CDF-E43A0EFED691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CED1C62-B477-4DA1-9CDF-E43A0EFED691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CED1C62-B477-4DA1-9CDF-E43A0EFED691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E77B74E7-62C4-4E21-AEA9-56FDAB019D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77B74E7-62C4-4E21-AEA9-56FDAB019D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77B74E7-62C4-4E21-AEA9-56FDAB019D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77B74E7-62C4-4E21-AEA9-56FDAB019D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563E7561-87C8-4243-8833-091AA6026201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563E7561-87C8-4243-8833-091AA6026201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563E7561-87C8-4243-8833-091AA6026201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563E7561-87C8-4243-8833-091AA6026201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737EA769-EBAD-4323-9117-C9003FF4595D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737EA769-EBAD-4323-9117-C9003FF4595D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737EA769-EBAD-4323-9117-C9003FF4595D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737EA769-EBAD-4323-9117-C9003FF4595D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9FB2C8-5322-4649-8EDA-C54F8941CD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9FB2C8-5322-4649-8EDA-C54F8941CD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9FB2C8-5322-4649-8EDA-C54F8941CD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9FB2C8-5322-4649-8EDA-C54F8941CD06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
